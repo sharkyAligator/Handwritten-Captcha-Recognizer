@@ -1,0 +1,13 @@
+ABCEFHJKMNOPSTUWXYZ1234567
+
+total characters=26
+
+Digits represents emojis in given order as in PS.
+
+Checkmark   1
+Cloud       2
+Croissant   3
+Heart       4
+Laugh       5
+Smile       6
+Sun         7
